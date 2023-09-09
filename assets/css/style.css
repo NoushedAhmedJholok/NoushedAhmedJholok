@@ -1188,3 +1188,16 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+@media (min-width: 100px) and (max-width: 576px) { 
+  #header {
+    transition: ease-in-out 0.3s;
+    position: relative;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    z-index: 997;
+    overflow-y: auto;
+    background: #0b141d9b;
+  }
+ }
