@@ -6,6 +6,9 @@ https://www.cloudokta.com
 ##
 ## Fowhe - hosting provider site
 https://www.fowhe.com/
+##
+## Lugassi
+https://na-jholok.github.io/lugassi/
 
 <!--
 **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
