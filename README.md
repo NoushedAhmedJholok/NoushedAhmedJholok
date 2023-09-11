@@ -1,5 +1,8 @@
-### Hi there 👋
-## **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my Github account 👋
+## **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because This is my portfolio site. Here is a portfolio of all my work. As much work as I do will be added to this repository. Some of my work or portfolio is given here.
+
+## Cloudokta
+https://www.cloudokta.com
 <!--
 **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
