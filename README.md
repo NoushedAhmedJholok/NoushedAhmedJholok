@@ -1,6 +1,10 @@
 ### Welcome to my Github account 👋
-## **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because This is my portfolio site. Here is a portfolio of all my work. As much work as I do will be added to this repository. Some of my work or portfolio is given here.
+## **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because This is my portfolio site. Here is a portfolio of all my work. As much work as I do will be added to this repository. 
+# Some of my work to finish last (Name And Link )
 
+## My Portofolio (N.A. Jholok)
+https://na-jholok.github.io/na-jholok/
+##
 ## Cloudokta 
 https://www.cloudokta.com
 ##
