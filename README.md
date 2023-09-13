@@ -1,8 +1,4 @@
-### Welcome to Jack_rayen 👋
-# Please Whatsapp me 
-+8801766596669
-# or Mail 
-info.jholok@gmail.com
+### Welcome to Github 👋
 
 ## **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because This is my portfolio site. Here is a portfolio of all my work. As much work as I do will be added to this repository. 
 # Some of my work to finish last (Name And Link )
