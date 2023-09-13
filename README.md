@@ -6,14 +6,16 @@
 ## My Portofolio (N.A. Jholok)
 https://na-jholok.github.io/na-jholok/
 ##
+## Lugassi Design ( 14 - 09 -2023 )
+https://www.lugassi-design.com/
+##
 ## Cloudokta 
 https://www.cloudokta.com
 ##
 ## Fowhe - hosting provider site
 https://www.fowhe.com/
 ##
-## Lugassi
-https://na-jholok.github.io/lugassi/
+
 
 <!--
 **na-jholok/na-jholok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
