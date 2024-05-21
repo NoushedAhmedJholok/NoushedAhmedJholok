@@ -4,7 +4,7 @@
 # Some of my work to finish last (Name And Link )
 
 ## My Portofolio (N.A. Jholok)
-https://na-jholok.github.io/na-jholok/
+https://na-jholok.github.io/NoushedAhmedJholok/
 ##
 ## Lugassi Design ( 14 - 09 -2023 )
 https://www.lugassi-design.com/
