@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Noushed Ahmed Jholok and I'm a Web Developer, from Bangladesh</h2>
+<h1 align="left">
+  Hi 👋!
+  My name is Noushed Ahmed Jholok 
+  and I'm a Web Developer, from Bangladesh</h1>
 
 ###
 
